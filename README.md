@@ -40,5 +40,5 @@ More advanced HR KPIs & insights
 Feel free to fork this repository and contribute! Open to suggestions and improvements.
 
 📬 Contact
-For queries, reach out via LinkedIn or email (your-email@example.com).
+For queries, reach out via LinkedIn or email ( yasinbagwan025@gmail.com).
 
